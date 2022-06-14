@@ -1,0 +1,28 @@
+.app {
+  width: 90%;
+  margin: 50px auto;
+}
+
+.app-header {
+  text-align: right;
+  padding-bottom: 25px;
+}
+
+.app-container {
+  display: flex;
+  padding-bottom: 25px;
+}
+
+.app-item {
+  width: 50%;
+}
+
+.app-control {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.app-control-loading-text {
+  padding-right: 15px;
+}

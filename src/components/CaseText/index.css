@@ -1,0 +1,16 @@
+.case-text {
+  padding-right: 10px;
+}
+
+.case-text-label {
+  padding-bottom: 10px;
+}
+
+.case-text-box {
+  width: calc(100% - 22px); /* 20px from padding and 2px from border */
+  max-width: calc(100% - 22px);
+  min-width: calc(100% - 22px);
+  height: 428px;
+  min-height: 428px;
+  padding: 10px 10px 0 10px;
+}

@@ -1,0 +1,12 @@
+.condition-select {
+  padding-left: 10px;
+}
+
+.condition-select-label {
+  padding-bottom: 10px;
+}
+
+.condition-select-list {
+  padding: 10px;
+  width: 100%;
+}
